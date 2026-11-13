@@ -1,47 +1,84 @@
-# :wave: Hi there, Welcome!
+# Taha Ait Si Mhand
 
-Hello! My name is **Taha Ait Si Mhand**. I'm a student at **1337 Coding School**, part of the 42 Network, where I'm currently pursuing my journey in software development.
+<h3 align="center">Software Development Student | 1337 Coding School</h3>
 
-🎓 **Currently:** First-year student at 1337 Coding School  
-🚀 **Level:** Level 1  
-💻 **Interests:** Web Development, Programming, and Software Engineering.
+<p align="center">
+  First-year student at 1337 Coding School, part of the 42 Network.<br>
+  Currently working on improving my programming skills, exploring web development, and discovering new technologies.
+</p>
 
-### :seedling: What I'm Currently Learning
+---
 
-I'm currently refreshing and strengthening my frontend development skills:
+## About Me
 
-- :globe_with_meridians: HTML5 & CSS3
-- :zap: JavaScript
-- :atom: React
-- :art: Tailwind CSS
-- :blue_square: Bootstrap
-- :art: SCSS / Sass
+- **School:** 1337 Coding School (42 Network)
+- **Year:** First Year
+- **Current Level:** Level 1
+- **Interests:** Software Development, Frontend Development, and Problem Solving.
+- **Currently working on:** Strengthening my programming and web development fundamentals.
+- **Goal:** Keep learning, build projects, and explore new technologies.
 
-I'm always looking to learn new technologies, improve my skills, and explore different areas of software development.
+---
 
-### :computer: Technologies & Tools
+## 1337 Coding Journey
 
-**Languages & Frontend:**
+I'm currently developing my programming skills through the 1337 curriculum, learning how to think logically, solve problems, and write better code.
 
-HTML | CSS | JavaScript | React | SCSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github&theme=dark" />
+</p>
 
-**Frameworks & Libraries:**
+---
 
-Tailwind CSS | Bootstrap
+## Frontend Development
 
-**Tools:**
+I'm currently revisiting and strengthening my frontend development knowledge.
 
-Git | GitHub | VS Code | Linux | Bash
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass&theme=dark" />
+</p>
 
-### :dart: What's Next?
+**Currently revisiting:**
+- HTML5 and CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Bootstrap
+- SCSS / Sass
 
-- Strengthening my frontend development fundamentals.
-- Building more projects to improve my practical skills.
-- Exploring new technologies and frameworks.
-- Improving my problem-solving skills through the 1337 curriculum.
+---
 
-### :mailbox: Let's Connect!
+## Technologies & Tools
 
-I'm always interested in learning, sharing knowledge, and connecting with other developers.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash&theme=dark" />
+</p>
 
-Thanks for visiting my profile! ⭐
+---
+
+## What's Next?
+
+- Improve my JavaScript and React knowledge.
+- Build more frontend projects.
+- Explore TypeScript and other technologies.
+- Learn backend development.
+- Improve my problem-solving skills.
+- Keep progressing through the 1337 curriculum.
+
+---
+
+## A Little About My Journey
+
+I'm still at the beginning of my development journey, and there's a lot more to discover.
+
+I'm always looking for something new to learn, new challenges to solve, and opportunities to grow as a developer.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
